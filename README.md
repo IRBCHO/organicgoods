@@ -67,16 +67,13 @@ This project helped me understand how design, layout, branding, and code work to
 
 ## Future Improvements
 
-In the future, I would like to improve this project by:
-
-- Making the design more polished and consistent
-- Improving mobile responsiveness
-- Cleaning up file structure and image paths
-- Adding interactive cart functionality
-- Adding product filtering or categories
-- Improving accessibility and SEO
-- Connecting the website to a backend or database
+- Add individual product detail pages
+- Add functional cart behavior
+- Add product filtering and categories
+- Improve mobile responsiveness
+- Improve accessibility and SEO
+- Connect the website to a backend or database
 
 ## Project Status
 
-This project is currently a front-end static website created for learning and portfolio purposes.
+This project is currently a front-end static website created for learning and portfolio purposes. Product detail pages, cart functionality, checkout, and backend/database integration are planned as future improvements.
